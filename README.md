@@ -1,6 +1,6 @@
 # Swift Coding Problems from Leetcode and CodeSignal
 
-This repository contains Swift solutions for coding problems from Leetcode and CodeSignal. The purpose of this repository is to serve as a resource for Swift developers to practice their coding skills and improve their problem-solving abilities.
+This repository contains Swift solutions for coding problems from Leetcode and CodeSignal. The purpose of this repository is to keep track of all solved coding problems from Leetcode and CodeSignal programmed in Swift. 
 
 ## Table of Contents
 
