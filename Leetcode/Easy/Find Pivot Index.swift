@@ -1,3 +1,5 @@
+// Day 1 Level 1 :- Find Pivot Index - (https://leetcode.com/problems/find-pivot-index/?envType=study-plan&id=level-1)
+
 func pivotIndex(_ nums: [Int]) -> Int {        
     let sum = nums.reduce(0, +)
     var leftSum = 0

@@ -15,10 +15,15 @@ The Leetcode problems in this repository are organized by difficulty and problem
 
 The CodeSignal problems in this repository will be organized by problem level and problem name.
 
+## [Leetcode 75 Problems](https://leetcode.com/study-plan/leetcode-75/)
+
+ 1. [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/?envType=study-plan&id=level-1)
+ 2. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/?envType=study-plan&id=level-1)
+
 
 
 ## TODO :-
 
 - [ ] Add Problem Description and Link
 
-- [ ] Add CodeSignal Problems
+- [x] Add CodeSignal Problems
