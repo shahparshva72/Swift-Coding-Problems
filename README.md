@@ -15,10 +15,12 @@ The Leetcode problems in this repository are organized by difficulty and problem
 
 The CodeSignal problems in this repository will be organized by problem level and problem name.
 
-## [Leetcode 75 Problems](https://leetcode.com/study-plan/leetcode-75/)
+## [Leetcode 75 Problems](https://leetcode.com/study-plan/leetcode-75/) (Click on the problems to view the solution.)
 
- 1. [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/?envType=study-plan&id=level-1)
- 2. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/?envType=study-plan&id=level-1)
+ 1. [Running Sum of 1D Array](/Leetcode/Easy/Running%20Sum%20of%201d%20array.swift)
+ 2. [Find Pivot Index](/Leetcode/Easy/Find%20Pivot%20Index.swift)
+ 3. [Isomorphic Strings](/Leetcode/Easy/Isomorphic%20Strings.swift)
+ 4. [Is Subsequence](/Leetcode/Easy/Is%20Subsequence.swift)
 
 
 
