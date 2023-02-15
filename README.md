@@ -21,6 +21,8 @@ The CodeSignal problems in this repository will be organized by problem level an
  2. [Find Pivot Index](/Leetcode/Easy/Find%20Pivot%20Index.swift)
  3. [Isomorphic Strings](/Leetcode/Easy/Isomorphic%20Strings.swift)
  4. [Is Subsequence](/Leetcode/Easy/Is%20Subsequence.swift)
+ 5. [Merge Two Sorted Linked List](/Leetcode/Easy/Merge%20Two%20Sorted%20LInked%20List.swift)
+ 6. [Reverse Linked List](/Leetcode/Easy/Reverse%20Linked%20List.swift)
 
 
 
